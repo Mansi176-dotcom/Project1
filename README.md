@@ -1,2 +1,2 @@
 # Project1
-Sonar Rock vs Mine Prediction
+Sonar Rock vs Mine Predictor
